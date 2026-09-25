@@ -24,4 +24,3 @@ to improve the efficiency of agarbatti production.
 - AI/ML
 - Solar Energy
 
-## Project Structure
